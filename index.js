@@ -15,6 +15,7 @@ const two = 2
 return n + two
   }
 
+function()
 var funkyFunction = function() {
   return function() {
 theFunk = "FUNKY!"
