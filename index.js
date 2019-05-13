@@ -17,7 +17,6 @@ return n + two
 
 
 var funkyFunction = function() {
-theFunk = "FUNKY!"
   return function() {
     return "FUNKY!"
   }
