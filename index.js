@@ -23,4 +23,6 @@ var theFunk = funkyFunction()()
   }
 }
 var theFunk = funkyFunction()
-thefunk = theFunk()
+theFunk()
+var funk = funkyFunction()
+var theFunk = funk()
