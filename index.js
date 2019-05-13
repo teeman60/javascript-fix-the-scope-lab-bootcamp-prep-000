@@ -21,5 +21,3 @@ theFunk = "FUNKY!"
     return "FUNKY!"
   }
 }
-
-
