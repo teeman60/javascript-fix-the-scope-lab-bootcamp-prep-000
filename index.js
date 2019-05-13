@@ -15,10 +15,10 @@ const two = 2
 return n + two
   }
 
-function funkyFunction()
+
 var funkyFunction = function() {
-  return function() {
 theFunk = "FUNKY!"
+  return function() {
     return "FUNKY!"
   }
 }
